@@ -6,7 +6,7 @@ The use of functions is favoured.
 Comment the code whenever important. 
 
 1. Description of the problem
-The aim is to develop a programme to manage the assessments of the trainees in a UFCD.
+The aim is to develop a programme to manage the assessments of the trainees in a module.
 Using a vector to store the data, the programme should provide the user with the following options 
 options:
 

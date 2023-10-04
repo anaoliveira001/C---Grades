@@ -1,4 +1,4 @@
-// Final C project - ANA PAULA OLIVEIRA 
+
 
 #include <stdio.h>
 #include <math.h>

@@ -1,0 +1,23 @@
+Preliminary notes: 
+
+The programme must be developed in the C language. 
+The use of global variables is completely forbidden. 
+The use of functions is favoured.
+Comment the code whenever important. 
+
+1. Description of the problem
+The aim is to develop a programme to manage the assessments of the trainees in a UFCD.
+Using a vector to store the data, the programme should provide the user with the following options 
+options:
+
+- Record values (grades)
+- Check the recorded values (grades)
+- Set all values to zero
+- Consult the average marks for the UFCD
+- Check wanted negative marks and who owns them
+- Check the positive marks and who owns them
+
+
+Tip: 
+Use the id of the vector to identify the learner. 
+For example, trainee number N could be registered under id (N - 1).
